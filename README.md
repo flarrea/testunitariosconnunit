@@ -22,7 +22,7 @@ Cada Método tiene tres partes (Convención triple A)</br>
 
 //Act</br>
 
-*Donce actua el objeto, donde llamamos al método para testearlo</br>
+*Donde actúa el objeto, donde llamamos al método para testearlo</br>
 
 //Assert</br>
 
