@@ -1,0 +1,7 @@
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\bin\Debug\DatosEmpleados.exe.config
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\bin\Debug\DatosEmpleados.exe
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\bin\Debug\DatosEmpleados.pdb
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\obj\Debug\DatosEmpleados.csproj.CoreCompileInputs.cache
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\obj\Debug\DatosEmpleados.exe
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\obj\Debug\DatosEmpleados.pdb
+C:\vs_projects_csharp_demos\DatosEmpleados\DatosEmpleados\obj\Debug\DatosEmpleados.csprojAssemblyReference.cache
